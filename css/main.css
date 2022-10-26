@@ -236,7 +236,7 @@ ul {
 
 .project {
     padding: 120px 0;
-    background: url(../img/project/bg.png) no-repeat center center / cover;
+    background: url(../img/project/bg.png) no-repeat center center / cover fixed;
 }
 
 .project__abovetitle {
